@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "T T",
+    "SSS"
+  ],
+  "key": {
+    "S": "#minecraft:wooden_slabs",
+    "T": "minecraft:stick"
+  },
+  "result": {
+    "id": "soviet_hifi:cassette_rack",
+    "count": 1
+  }
+}

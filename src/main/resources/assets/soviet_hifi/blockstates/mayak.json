@@ -1,0 +1,420 @@
+{
+  "variants": {
+    "facing=north,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/mayak_empty",
+      "y": 0
+    },
+    "facing=north,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/mayak_empty",
+      "y": 0
+    },
+    "facing=north,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=north,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=north,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=north,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=north,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=north,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=north,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=north,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=north,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=north,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=north,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=north,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 0
+    },
+    "facing=north,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 0
+    },
+    "facing=east,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/mayak_empty",
+      "y": 90
+    },
+    "facing=east,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/mayak_empty",
+      "y": 90
+    },
+    "facing=east,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=east,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=east,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=east,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=east,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=east,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=east,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=east,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=east,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=east,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=east,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=east,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 90
+    },
+    "facing=east,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 90
+    },
+    "facing=south,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/mayak_empty",
+      "y": 180
+    },
+    "facing=south,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/mayak_empty",
+      "y": 180
+    },
+    "facing=south,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=south,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=south,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=south,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=south,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=south,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=south,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=south,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=south,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=south,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=south,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=south,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 180
+    },
+    "facing=south,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 180
+    },
+    "facing=west,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/mayak_empty",
+      "y": 270
+    },
+    "facing=west,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/mayak_empty",
+      "y": 270
+    },
+    "facing=west,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    },
+    "facing=west,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    },
+    "facing=west,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    },
+    "facing=west,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    },
+    "facing=west,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    },
+    "facing=west,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    },
+    "facing=west,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    },
+    "facing=west,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    },
+    "facing=west,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    },
+    "facing=west,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    },
+    "facing=west,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    },
+    "facing=west,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/mayak_loaded",
+      "y": 270
+    },
+    "facing=west,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/mayak_playing",
+      "y": 270
+    }
+  }
+}

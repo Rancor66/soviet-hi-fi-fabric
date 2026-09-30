@@ -28,7 +28,7 @@ Soviet Hi-Fi добавляет в Minecraft пару колонок **Ради�
 
 ### Сборка из исходников
 
-Запусти `./build.ps1` в PowerShell. Скрипт использует установленный Java 25; если `JAVA_HOME` не задан, он попробует Java 25 из Minecraft Launcher. Результат появится в `build/libs`. Для разработки используются Gradle 9.5.1 и Fabric Loom 1.17.21. Проверки версии 0.3.0 описаны в [журнале проверки](docs/verification-2026-09-21.md).
+Запусти `./build.ps1` в PowerShell. Скрипт использует установленный Java 25; если `JAVA_HOME` не задан, он попробует Java 25 из Minecraft Launcher. Результат появится в `build/libs`. Для разработки используются Gradle 9.5.1 и Fabric Loom 1.17.21. Два теста декодирования используют необязательные локальные аудиофайлы в `demo/` и пропускаются, если их нет. Проверки версии 0.3.0 описаны в [журнале проверки](docs/verification-2026-09-21.md).
 
 При возврате на старую версию сначала разбери совмещённую деку с усилителем: старые версии не знают блок `soviet_hifi:stereo_stack`. Перенос существующего Forge-мира на Fabric отдельно не проверялся.
 
@@ -54,7 +54,6 @@ Tracks are stored with the world in `soviet-hifi/tracks`. Keep that folder when 
 
 The image above shows all five recipes. Any wooden planks or wooden slabs work; the metal nugget is an iron nugget. The S-90 recipe yields **two speakers**. Combining the deck and amplifier happens by placing them in the world.
 
-Run `./build.ps1` from PowerShell to build and test the mod. Set `JAVA_HOME` to a Java 25 installation, or let the script use the Minecraft Launcher Java 25 runtime if available. The JAR appears in `build/libs`. See the [0.3.0 verification notes](docs/verification-2026-09-21.md).
+Run `./build.ps1` from PowerShell to build and test the mod. Set `JAVA_HOME` to a Java 25 installation, or let the script use the Minecraft Launcher Java 25 runtime if available. The JAR appears in `build/libs`. Two decoder tests use optional local audio fixtures in `demo/` and are skipped when those files are absent. See the [0.3.0 verification notes](docs/verification-2026-09-21.md).
 
 Before downgrading, break combined deck/amplifier blocks because earlier versions do not recognize `soviet_hifi:stereo_stack`. Migration of an existing Forge world to Fabric has not been tested separately.
-

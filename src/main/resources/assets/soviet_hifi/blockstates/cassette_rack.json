@@ -1,0 +1,212 @@
+{
+  "variants": {
+    "facing=north,tapes=0": {
+      "model": "soviet_hifi:block/rack_0",
+      "y": 0
+    },
+    "facing=north,tapes=1": {
+      "model": "soviet_hifi:block/rack_1",
+      "y": 0
+    },
+    "facing=north,tapes=2": {
+      "model": "soviet_hifi:block/rack_2",
+      "y": 0
+    },
+    "facing=north,tapes=3": {
+      "model": "soviet_hifi:block/rack_3",
+      "y": 0
+    },
+    "facing=north,tapes=4": {
+      "model": "soviet_hifi:block/rack_4",
+      "y": 0
+    },
+    "facing=north,tapes=5": {
+      "model": "soviet_hifi:block/rack_5",
+      "y": 0
+    },
+    "facing=north,tapes=6": {
+      "model": "soviet_hifi:block/rack_6",
+      "y": 0
+    },
+    "facing=north,tapes=7": {
+      "model": "soviet_hifi:block/rack_7",
+      "y": 0
+    },
+    "facing=north,tapes=8": {
+      "model": "soviet_hifi:block/rack_8",
+      "y": 0
+    },
+    "facing=north,tapes=9": {
+      "model": "soviet_hifi:block/rack_9",
+      "y": 0
+    },
+    "facing=north,tapes=10": {
+      "model": "soviet_hifi:block/rack_10",
+      "y": 0
+    },
+    "facing=north,tapes=11": {
+      "model": "soviet_hifi:block/rack_11",
+      "y": 0
+    },
+    "facing=north,tapes=12": {
+      "model": "soviet_hifi:block/rack_12",
+      "y": 0
+    },
+    "facing=east,tapes=0": {
+      "model": "soviet_hifi:block/rack_0",
+      "y": 90
+    },
+    "facing=east,tapes=1": {
+      "model": "soviet_hifi:block/rack_1",
+      "y": 90
+    },
+    "facing=east,tapes=2": {
+      "model": "soviet_hifi:block/rack_2",
+      "y": 90
+    },
+    "facing=east,tapes=3": {
+      "model": "soviet_hifi:block/rack_3",
+      "y": 90
+    },
+    "facing=east,tapes=4": {
+      "model": "soviet_hifi:block/rack_4",
+      "y": 90
+    },
+    "facing=east,tapes=5": {
+      "model": "soviet_hifi:block/rack_5",
+      "y": 90
+    },
+    "facing=east,tapes=6": {
+      "model": "soviet_hifi:block/rack_6",
+      "y": 90
+    },
+    "facing=east,tapes=7": {
+      "model": "soviet_hifi:block/rack_7",
+      "y": 90
+    },
+    "facing=east,tapes=8": {
+      "model": "soviet_hifi:block/rack_8",
+      "y": 90
+    },
+    "facing=east,tapes=9": {
+      "model": "soviet_hifi:block/rack_9",
+      "y": 90
+    },
+    "facing=east,tapes=10": {
+      "model": "soviet_hifi:block/rack_10",
+      "y": 90
+    },
+    "facing=east,tapes=11": {
+      "model": "soviet_hifi:block/rack_11",
+      "y": 90
+    },
+    "facing=east,tapes=12": {
+      "model": "soviet_hifi:block/rack_12",
+      "y": 90
+    },
+    "facing=south,tapes=0": {
+      "model": "soviet_hifi:block/rack_0",
+      "y": 180
+    },
+    "facing=south,tapes=1": {
+      "model": "soviet_hifi:block/rack_1",
+      "y": 180
+    },
+    "facing=south,tapes=2": {
+      "model": "soviet_hifi:block/rack_2",
+      "y": 180
+    },
+    "facing=south,tapes=3": {
+      "model": "soviet_hifi:block/rack_3",
+      "y": 180
+    },
+    "facing=south,tapes=4": {
+      "model": "soviet_hifi:block/rack_4",
+      "y": 180
+    },
+    "facing=south,tapes=5": {
+      "model": "soviet_hifi:block/rack_5",
+      "y": 180
+    },
+    "facing=south,tapes=6": {
+      "model": "soviet_hifi:block/rack_6",
+      "y": 180
+    },
+    "facing=south,tapes=7": {
+      "model": "soviet_hifi:block/rack_7",
+      "y": 180
+    },
+    "facing=south,tapes=8": {
+      "model": "soviet_hifi:block/rack_8",
+      "y": 180
+    },
+    "facing=south,tapes=9": {
+      "model": "soviet_hifi:block/rack_9",
+      "y": 180
+    },
+    "facing=south,tapes=10": {
+      "model": "soviet_hifi:block/rack_10",
+      "y": 180
+    },
+    "facing=south,tapes=11": {
+      "model": "soviet_hifi:block/rack_11",
+      "y": 180
+    },
+    "facing=south,tapes=12": {
+      "model": "soviet_hifi:block/rack_12",
+      "y": 180
+    },
+    "facing=west,tapes=0": {
+      "model": "soviet_hifi:block/rack_0",
+      "y": 270
+    },
+    "facing=west,tapes=1": {
+      "model": "soviet_hifi:block/rack_1",
+      "y": 270
+    },
+    "facing=west,tapes=2": {
+      "model": "soviet_hifi:block/rack_2",
+      "y": 270
+    },
+    "facing=west,tapes=3": {
+      "model": "soviet_hifi:block/rack_3",
+      "y": 270
+    },
+    "facing=west,tapes=4": {
+      "model": "soviet_hifi:block/rack_4",
+      "y": 270
+    },
+    "facing=west,tapes=5": {
+      "model": "soviet_hifi:block/rack_5",
+      "y": 270
+    },
+    "facing=west,tapes=6": {
+      "model": "soviet_hifi:block/rack_6",
+      "y": 270
+    },
+    "facing=west,tapes=7": {
+      "model": "soviet_hifi:block/rack_7",
+      "y": 270
+    },
+    "facing=west,tapes=8": {
+      "model": "soviet_hifi:block/rack_8",
+      "y": 270
+    },
+    "facing=west,tapes=9": {
+      "model": "soviet_hifi:block/rack_9",
+      "y": 270
+    },
+    "facing=west,tapes=10": {
+      "model": "soviet_hifi:block/rack_10",
+      "y": 270
+    },
+    "facing=west,tapes=11": {
+      "model": "soviet_hifi:block/rack_11",
+      "y": 270
+    },
+    "facing=west,tapes=12": {
+      "model": "soviet_hifi:block/rack_12",
+      "y": 270
+    }
+  }
+}

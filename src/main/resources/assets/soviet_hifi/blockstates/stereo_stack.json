@@ -1,0 +1,836 @@
+{
+  "variants": {
+    "facing=north,amp_on_top=true,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_empty",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_empty",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=true,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_empty",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_empty",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 0
+    },
+    "facing=north,amp_on_top=false,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 0
+    },
+    "facing=east,amp_on_top=true,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_empty",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_empty",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=true,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_empty",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_empty",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 90
+    },
+    "facing=east,amp_on_top=false,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 90
+    },
+    "facing=south,amp_on_top=true,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_empty",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_empty",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=true,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_empty",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_empty",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 180
+    },
+    "facing=south,amp_on_top=false,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 180
+    },
+    "facing=west,amp_on_top=true,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_empty",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_empty",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/stack_amp_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=true,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/stack_amp_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=0,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_empty",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=0,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_empty",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=1,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=1,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=2,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=2,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=3,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=3,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=4,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=4,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=5,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=5,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=6,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=6,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=7,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=7,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=8,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=8,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=9,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=9,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=10,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=10,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=11,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=11,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=12,powered=false": {
+      "model": "soviet_hifi:block/stack_deck_top_loaded",
+      "y": 270
+    },
+    "facing=west,amp_on_top=false,tapes=12,powered=true": {
+      "model": "soviet_hifi:block/stack_deck_top_playing",
+      "y": 270
+    }
+  }
+}

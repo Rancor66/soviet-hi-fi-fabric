@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "WGW",
+    " R "
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "W": "#minecraft:planks",
+    "G": "minecraft:glass",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "soviet_hifi:mayak",
+    "count": 1
+  }
+}

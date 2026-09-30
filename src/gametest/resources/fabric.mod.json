@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "soviet_hifi_tests",
+  "version": "1.0.0",
+  "name": "Soviet Hi-Fi regression tests",
+  "environment": "*",
+  "entrypoints": { "fabric-gametest": ["ru.daniel.soviethifi.EquipmentGameTests"] }
+}

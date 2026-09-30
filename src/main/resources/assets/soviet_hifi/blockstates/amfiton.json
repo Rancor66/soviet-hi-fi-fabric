@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "soviet_hifi:block/amfiton",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "soviet_hifi:block/amfiton",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "soviet_hifi:block/amfiton",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "soviet_hifi:block/amfiton",
+      "y": 270
+    }
+  }
+}

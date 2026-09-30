@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NPN",
+    " C "
+  ],
+  "key": {
+    "N": "minecraft:iron_nugget",
+    "P": "minecraft:paper",
+    "C": "minecraft:coal"
+  },
+  "result": {
+    "id": "soviet_hifi:cassette",
+    "count": 1
+  }
+}

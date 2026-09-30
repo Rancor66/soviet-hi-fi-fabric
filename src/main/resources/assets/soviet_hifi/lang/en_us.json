@@ -1,0 +1,9 @@
+{
+  "itemGroup.soviet_hifi": "Soviet Hi-Fi",
+  "block.soviet_hifi.s90": "Radiotehnika S-90",
+  "block.soviet_hifi.mayak": "Mayak-233 Cassette Deck",
+  "block.soviet_hifi.amfiton": "Amfiton U-002 Amplifier",
+  "block.soviet_hifi.cassette_rack": "Cassette Rack",
+  "item.soviet_hifi.cassette": "Blank Cassette",
+  "block.soviet_hifi.stereo_stack": "Mayak / Amfiton Stack"
+}

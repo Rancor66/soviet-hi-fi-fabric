@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "soviet_hifi",
+  "version": "${version}",
+  "name": "Soviet Hi-Fi",
+  "description": "S-90 speakers, Mayak cassette deck, Amfiton amplifier and synchronized multiplayer music.",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["ru.daniel.soviethifi.SovietHiFi"],
+    "client": ["ru.daniel.soviethifi.client.HiFiClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "fabric-api": ">=0.160.0",
+    "minecraft": "26.2",
+    "java": ">=25"
+  }
+}
