@@ -2,7 +2,7 @@
 
 # Soviet Hi-Fi for Minecraft 26.2 (Fabric)
 
-![Soviet Hi-Fi crafting recipes](docs/crafting-guide.png)
+![Soviet Hi-Fi in game: S-90 speakers, Mayak-233 deck, Amfiton amplifier, and cassette rack](docs/in-game.png)
 
 Soviet Hi-Fi brings a pair of **Radiotehnika S-90 speakers**, a **Mayak-233 cassette deck**, an **Amfiton U-002 amplifier**, a 12-cassette rack, and recordable cassettes to Minecraft. Record a local MP3 or OGG Vorbis file onto a blank cassette, insert it into the deck, and nearby players will hear it. Sound fades with distance and through walls; the amplifier can add a subtle tape character.
 
@@ -21,6 +21,8 @@ Requires **Minecraft 26.2**, **Java 25**, **Fabric Loader 0.19.3+**, and **Fabri
 Tracks are stored with the world in `soviet-hifi/tracks`. Keep that folder when moving the world. Only record audio you have the right to use; this repository contains no third-party songs.
 
 ## Crafting and building
+
+![Soviet Hi-Fi crafting recipes](docs/crafting-guide.png)
 
 The image above shows all five recipes. Any wooden planks or wooden slabs work; the metal nugget is an iron nugget. The S-90 recipe yields **two speakers**. Combining the deck and amplifier happens by placing them in the world.
 
